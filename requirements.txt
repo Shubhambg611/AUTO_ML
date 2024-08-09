@@ -1,6 +1,6 @@
 Django
 djangorestframework
-pandas
+pandas 
 numpy
 scikit-learn
 matplotlib
