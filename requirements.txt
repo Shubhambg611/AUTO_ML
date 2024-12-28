@@ -1,8 +1,0 @@
-Django
-djangorestframework
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-requests
